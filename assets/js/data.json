@@ -1,4 +1,5 @@
 {
+
     "geographic" : [
         "tennessee",
         "maine",
@@ -57,17 +58,38 @@
         "super heady",
         "heady",
         "gnarly",
-        "ripped"
+        "ripped",
+        "whacked"
     ],
 
     "coloquialism" : [
         "weed",
         "green",
         "dope",
+        "pot",
         "cannabis",
         "mary jane",
         "sweet mary",
         "greenery",
-        "trees"
+        "trees",
+        "shrubbery",
+        "juniper",
+        "devil's weed",
+        "mersh"
+        
+    ],
+
+    "pre-existing" : [
+        "PurpQuake",
+        "Wheezus Christ",
+        "Dirty Dank",
+        "Durty Dahnk",
+        "Derrteh Dizank",
+        "IvySour",
+        "Shrubbery",
+        "Doofy Dank",
+        "Harry Chronic, Jr.",
+        "Dank Sinatra",
+        "Devil's Brown Weed"
     ]
 }

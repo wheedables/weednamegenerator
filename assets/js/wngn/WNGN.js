@@ -7,16 +7,15 @@
  *
  ***/
 
- import DataFetcher from "./parts/DataFetcher.js";
+import DataFetcher from "./parts/DataFetcher.js";
+import NameGenerator from "./parts/NameGenerator.js";
 
 
-
- /**************************
-  * class: WNGN
-  * description:  
-  ***/
- export default class WNGN {
-
+/**************************
+ * class: WNGN
+ * description:  
+ ***/
+export default class WNGN {
 
     static _requestURL = "http://localhost:8888/assets/js/data.json";     // from whence to requesteth the DATA
 
@@ -26,15 +25,26 @@
 
     constructor() {
 
+
+    }
+
+    // the on switch
+    static on() {
+
         WNGN._theDATA = DataFetcher.fetchTheData();
 
     }
 
-    go() {
-
+    // makes the generator go. 
+    static go() {
 
         console.log(WNGN._theDATA);
 
+        WNGN._randomlyGeneratedWeedName = NameGenerator.generateName(WNGN._theDATA);
+
+        return WNGN._randomlyGeneratedWeedName;
+
+
     }
 
- }
+}

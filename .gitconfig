@@ -1,0 +1,13 @@
+[user]
+    name = Wheedy McWheederton
+    email = wheedables@gmail.com
+    username = wheedables
+
+[core]
+    editor = vim
+
+[web]
+    browser = firefox
+
+[github]
+    user = wheedables

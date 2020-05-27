@@ -1,0 +1,73 @@
+{
+    "geographic" : [
+        "tennessee",
+        "maine",
+        "abalama",
+        "montana",
+        "quebecois",
+        "iranian",
+        "iraqui",
+        "albanian",
+        "russian",
+        "alaskan"
+    ],
+
+    "object" : [
+        "lawnmower",
+        "wheelbarrow",
+        "pot",
+        "skunk",
+        "kettle",
+        "spatula",
+        "chainsaw",
+        "field",
+        "farm truck",
+        "machete"
+
+    ],
+
+    "pop" : [
+        "rick",
+        "morty",
+        "skywalker",
+        "ruh-roh-raggy",
+        "anonymous"
+ 
+    ],
+
+    "weedjective" : [
+        "kush",
+        "dank",
+        "diggety-dank",
+        "skunk",
+        "lit",
+        "lit AF",
+        "skank",
+        "smooth",
+        "easy",
+        "chronic",
+        "dank",
+        "endo",
+        "herb"
+
+    ],
+
+    "bonaroo" : [
+        "trunk-monkey",
+        "super heady",
+        "heady",
+        "gnarly",
+        "ripped"
+    ],
+
+    "coloquialism" : [
+        "weed",
+        "green",
+        "dope",
+        "cannabis",
+        "mary jane",
+        "sweet mary",
+        "greenery",
+        "trees"
+    ]
+}

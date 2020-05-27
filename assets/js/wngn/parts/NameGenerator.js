@@ -21,23 +21,28 @@
 
     static generateName(nameData) {
 
+        NameGenerator.randomlyGeneratedName = "";
+
 
         // loop through each property in the nameData object
         for (const property in nameData) {
 
-            console.log("-----------------------------");
-
-            console.log(RandomInt.generate(2));
-
             // creates a 50/50 ish shot of including this particular property
+            if (RandomInt.generate(2)) {
 
-            console.log(`${property}: ${nameData[property]}`);
+                // concatenate the randomly generated name with a random item from the array
+                NameGenerator.randomlyGeneratedName += nameData[property][RandomInt.generate(nameData[property].length)] + " ";
 
-            console.log(nameData[property][3]);
+            }
+
+            //console.log(`${property}: ${nameData[property]}`);
+
+            console.log(NameGenerator.randomlyGeneratedName);
 
 
         }
 
+        return NameGenerator.randomlyGeneratedName;
 
     }
 

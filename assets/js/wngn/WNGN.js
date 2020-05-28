@@ -17,8 +17,8 @@ import NameGenerator from "./parts/NameGenerator.js";
  ***/
 export default class WNGN {
 
-    static _requestURL = "http://localhost:8888/assets/js/data.json";     // from whence to requesteth the DATA
-    //static _requestURL = "https://wheedables.github.io/weednamegenerator/assets/js/data.json" 
+    //static _requestURL = "http://localhost:8888/assets/js/data.json";     // from whence to requesteth the DATA
+    static _requestURL = "https://wheedables.github.io/weednamegenerator/assets/js/data.json" 
 
     static _theDATA = {}
 

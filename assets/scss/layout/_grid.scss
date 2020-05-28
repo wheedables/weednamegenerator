@@ -1,0 +1,21 @@
+/****************************************************************************************
+ * filename: /layout/_grid.scss 
+ * author: wheedables
+ * date: 
+ * description: 
+ * 
+ * 
+ ***/
+
+ body, header, main, footer {
+     width: 100%;
+ }
+
+ .container.fluid {
+     width: 100%;
+     padding: 0 1rem;
+ }
+
+ .center {
+     text-align: center;
+ }

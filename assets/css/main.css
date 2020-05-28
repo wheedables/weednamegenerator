@@ -10,6 +10,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -55,5 +56,84 @@ table {
 
 * {
   box-sizing: border-box; }
+
+/****************************************************************************************
+ * filename: _fonts.scss 
+ * author: wheedables
+ * date: 
+ * description: 
+ * 
+ * 
+ ***/
+/****************************************************************************************
+ * filename: /components/_buttons.scss 
+ * author: wheedables
+ * date: 
+ * description: 
+ * 
+ * 
+ ***/
+button {
+  cursor: pointer; }
+
+/****************************************************************************************
+ * filename: /layout/_grid.scss 
+ * author: wheedables
+ * date: 
+ * description: 
+ * 
+ * 
+ ***/
+body, header, main, footer {
+  width: 100%; }
+
+.container.fluid {
+  width: 100%;
+  padding: 0 1rem; }
+
+.center {
+  text-align: center; }
+
+/****************************************************************************************
+ * filename: /themes/_terminal.scss 
+ * author: wheedables
+ * date: 
+ * description: 
+ * 
+ * 
+ ***/
+h1 {
+  font-size: 2.2rem; }
+
+h1, p, textarea, input, button {
+  font-family: 'VT323', monospace;
+  color: #0F0;
+  line-height: 2rem; }
+
+body {
+  background-color: #000;
+  font-size: 1.5rem; }
+
+header:before, main:before, footer:before {
+  content: "*"; }
+header:after, main:after, footer:after {
+  content: "*"; }
+
+button {
+  background-color: #000;
+  border: dashed 2px #0F0;
+  font-size: 2rem;
+  padding: 1.2rem; }
+  button:hover {
+    border: solid 2px #0F0; }
+
+textarea {
+  width: 100%;
+  background-color: #000;
+  border: solid 2px #0F0;
+  font-size: 2rem;
+  padding: 1.2rem; }
+  textarea:hover {
+    border: dashed 2px #0F0; }
 
 /*# sourceMappingURL=main.css.map */

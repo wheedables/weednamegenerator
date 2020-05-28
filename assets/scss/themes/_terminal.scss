@@ -1,0 +1,61 @@
+/****************************************************************************************
+ * filename: /themes/_terminal.scss 
+ * author: wheedables
+ * date: 
+ * description: 
+ * 
+ * 
+ ***/
+
+ $terminal-color: #0F0;
+ $black: #000;
+
+ h1 {
+     font-size: 2.2rem;
+ }
+
+ h1, p, textarea, input, button {
+
+    font-family: 'VT323', monospace;
+    color: $terminal-color;
+    line-height: 2rem;
+ }
+
+ body {
+    background-color: $black;
+    font-size: 1.5rem;
+
+ }
+
+ header, main, footer {
+     &:before {
+         content: "*";
+     }
+     &:after {
+         content: "*";
+     }
+ }
+
+ button {
+     background-color: #000;
+     border: dashed 2px $terminal-color;
+     font-size: 2rem;
+     padding: 1.2rem;
+
+     &:hover {
+         border: solid 2px $terminal-color;
+     }
+ }
+
+ textarea {
+     width: 100%;
+     background-color: $black;
+     border: solid 2px $terminal-color;
+     font-size: 2rem;
+     padding: 1.2rem;
+
+     &:hover {
+
+        border: dashed 2px $terminal-color;
+     }
+ }

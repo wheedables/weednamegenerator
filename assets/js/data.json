@@ -18,6 +18,7 @@
         "Rough",
         "OverClocked",
         "Ghetto",
+        "Rush",
         ""
     ],
 
@@ -72,6 +73,7 @@
         "Ukraine",
         "Ukrainian",
         "Atlantic Provinces",
+        "Free Real Estate",
         ""
     ],
 
@@ -107,6 +109,15 @@
         "Dynamite",
         "TNT",
         "Trinitrotoluene",
+        "Cat",
+        "Dog",
+        "Dawg",
+        "Giraffe",
+        "Broken Wagon",
+        "Bucket",
+        "Kitchen Sink",
+        "Redneck",
+        "Drama Queen",
         ""
     ],
 
@@ -134,6 +145,19 @@
         "Pee Wee Herman",
         "Golem's",
         "No Frodo",
+        "Yo Dawg",
+        "Meme Daddy",
+        "Meme Momma",
+        "Casual Racism",
+        "Stereotypical",
+        "Yabba-Dabba-Do",
+        "Yippie-Ki-Yay-Motherfucker",
+        "Say 'What' Again, I Dare You",
+        "Run Forrest Run",
+        "Lt. Dan",
+        "Buzz n' Woody",
+        "PBR",
+        "Champagne",
         ""
     ],
 
@@ -148,6 +172,7 @@
         "Dank",
         "Endo",
         "Herb",
+        "Dabbs",
         ""
     ],
 
@@ -167,6 +192,9 @@
         "Sticky",
         "Stick-Icky",
         "Ghetto",
+        "Adventure",
+        "Head Trip",
+        "Mind Fuck",
         ""
     ],
 
@@ -190,10 +218,16 @@
         "Fur Burger",
         "Booty",
         "Bootaaaay",
+        "Marijuana",
+        "Endo",
+        "Sativa",
+        "Indica",
+        "Hybrid",
         ""
     ],
 
     "pre-existing" : [
+        "",
         "Mr. Anderson",
         "Anonymous",
         "PurpQuake",
@@ -214,6 +248,8 @@
         "Alaskan Haymaker",
         "Putin's Pot",
         "Skywalker",
+        "Johnny Trash",
+        "Trailer Park Martini",
         ""
     ],
 

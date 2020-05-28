@@ -75,7 +75,8 @@ table {
  ***/
 button, .button {
   cursor: pointer;
-  display: block; }
+  display: block;
+  width: 100%; }
 
 /****************************************************************************************
  * filename: /layout/_grid.scss 
@@ -127,7 +128,7 @@ button, .button {
   padding: 1.2rem;
   text-decoration: none; }
   button:hover, .button:hover {
-    border: solid 2px #0F0;
+    border: dashed 2px #000;
     background-color: #0F0;
     color: #000; }
 

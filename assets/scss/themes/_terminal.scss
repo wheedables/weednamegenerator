@@ -43,7 +43,7 @@
      padding: 1.2rem;
 
      &:hover {
-         border: solid 2px $terminal-color;
+         border: dashed 2px $black;
          background-color: $terminal-color;
          color: $black;
      }

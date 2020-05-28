@@ -29,11 +29,14 @@
         "Kentucky",
         "Tennesucky",
         "Maine",
-        "Maniac",
+        "Manieac",
         "Massachusetts",
         "Massachussettessetts",
         "Masshole",
-        "abalama",
+        "Abalama",
+        "Alabama",
+        "Florida Man",
+        "Florida Woman",
         "Montana",
         "Quebecois",
         "Iranian",
@@ -96,6 +99,14 @@
         "Dork",
         "Bubba",
         "Precious",
+        "Possum",
+        "Opossom",
+        "Dude",
+        "Platypus",
+        "Llama",
+        "Dynamite",
+        "TNT",
+        "Trinitrotoluene",
         ""
     ],
 
@@ -235,7 +246,9 @@
         "Thanks for playing",
         "Whelp, you suck",
         "Your mom thinks you're special",
-        "Thank-you for a-playing my a-game"
+        "Thank-you for a-playing my a-game",
+        "Hello, I am a famous Nigerian Prince and I have a ton of money in an offshore account and I need your help to claim it, all I need is your Credit Card information and maybe some bitcoin",
+        "https://bitcoinrollercoaster.com/"
 
     ]
 }

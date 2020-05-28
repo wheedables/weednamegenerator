@@ -73,7 +73,7 @@ table {
  * 
  * 
  ***/
-button {
+button, .button {
   cursor: pointer; }
 
 /****************************************************************************************
@@ -105,7 +105,7 @@ body, header, main, footer {
 h1 {
   font-size: 2.2rem; }
 
-h1, p, textarea, input, button {
+h1, p, textarea, input, button, .button {
   font-family: 'VT323', monospace;
   color: #0F0;
   line-height: 2rem; }
@@ -119,12 +119,12 @@ header:before, main:before, footer:before {
 header:after, main:after, footer:after {
   content: "*"; }
 
-button {
+button, .button {
   background-color: #000;
   border: dashed 2px #0F0;
   font-size: 2rem;
   padding: 1.2rem; }
-  button:hover {
+  button:hover, .button:hover {
     border: solid 2px #0F0; }
 
 textarea {

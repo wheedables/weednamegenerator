@@ -14,7 +14,7 @@
      font-size: 2.2rem;
  }
 
- h1, p, textarea, input, button {
+ h1, p, textarea, input, button, .button {
 
     font-family: 'VT323', monospace;
     color: $terminal-color;
@@ -36,7 +36,7 @@
      }
  }
 
- button {
+ button, .button {
      background-color: #000;
      border: dashed 2px $terminal-color;
      font-size: 2rem;

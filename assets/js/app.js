@@ -20,6 +20,7 @@ submitButton.addEventListener("click", handleSubmitButtonClick);
 
 function handleSubmitButtonClick(e) {
 
+    e.preventDefault();
 
     // WNGN does it's thing...
     let randomlyGeneratedWeedName = WNGN.go();

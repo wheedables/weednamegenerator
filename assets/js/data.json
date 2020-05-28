@@ -5,14 +5,17 @@
         "Greasy",
         "Heady",
         "Gnarly",
-        "Melly",
+        "Mello",
         "Chill",
+        "Chillaxed",
+        "ChillaXXXed",
         "Lit",
         "Lit AF",
         "Skank",
         "Smooth",
         "Easy",
-        "Rough"
+        "Rough",
+        "OverClocked"
     ],
 
     "geographic" : [
@@ -33,7 +36,34 @@
         "Russian",
         "Alaskan",
         "Paradise",
-        "Mom's Ex-Boyfriend's Trailer"
+        "Mom's Ex-Boyfriend's Trailer",
+        "SkowVegas",
+        "Vegas",
+        "Unit-Y",
+        "T6-R19",
+        "Township 32",
+        "Aztec",
+        "Egyptian",
+        "Israeli",
+        "Siberian",
+        "Mongolian",
+        "Tibetian",
+        "Icelandic",
+        "Odin's",
+        "Thor's",
+        "You Mom's",
+        "Trailer Park",
+        "Goat Farm",
+        "Californian",
+        "Pacific Northwest",
+        "Austrailian",
+        "Albanian",
+        "Latvijan",
+        "Belarussian",
+        "Ukraine",
+        "Ukrainian",
+        "Atlantic Provinces"
+
     ],
 
     "object" : [
@@ -47,7 +77,18 @@
         "Field",
         "Farm truck",
         "Machete",
-        "Trunk Monkey"
+        "Trunk Monkey",
+        "Ozzy Man",
+        "Radio",
+        "Radar",
+        "Tank",
+        "Axe",
+        "Hatchet",
+        "Lung",
+        "Volcano",
+        "Dork",
+        "Bubba",
+        "Precious"
     ],
 
     "pop" : [
@@ -58,7 +99,22 @@
         "Vader",
         "Scooby",
         "Ruh-roh-raggy",
-        "Anonymous"
+        "Anonymous",
+        "Billie Elish",
+        "Neo",
+        "SJW",
+        "Alt-Ain't-Right",
+        "ALF",
+        "UFO",
+        "Alien",
+        "Intedimensional",
+        "Alt-Reality",
+        "Virtual Reality",
+        "3-D",
+        "D&D",
+        "Pee Wee Herman",
+        "Golem's",
+        "No Frodo"
  
     ],
 
@@ -72,14 +128,23 @@
         "Dank",
         "Endo",
         "Herb"
-        
 
     ],
 
     "bonna-post" : [
         "Trunk-Monkey",
         "Ripper",
-        "Whacker"
+        "Whacker",
+        "Killer",
+        "Sleeper",
+        "Get Up 'n Go",
+        "Down 'n Out",
+        "Outta Luck",
+        "Whatever",
+        "Smelly",
+        "Stanky",
+        "Sticky",
+        "Stick-Icky"
     ],
 
     "coloquialism" : [
@@ -88,14 +153,16 @@
         "Dope",
         "Pot",
         "Cannabis",
-        "Mary jane",
-        "Sweet mary",
+        "Mary Jane",
+        "Sweet Mary",
         "Greenery",
         "Trees",
         "Shrubbery",
         "Juniper",
         "Devil's Weed",
-        "Mersh"
+        "Mersh",
+        "Cassette Tapes",
+        "Sticky-Icky"
         
     ],
 
@@ -117,7 +184,9 @@
         "Your Mom's Ex-Boyfriend's Trailer",
         "Old Derty Barn",
         "Good ol' Maine Field Grown",
-        "Alaskan Haymaker"
+        "Alaskan Haymaker",
+        "Putin's Pot",
+        "Skywalker"
         
     ]
 }

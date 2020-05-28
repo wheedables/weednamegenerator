@@ -123,9 +123,12 @@ button, .button {
   background-color: #000;
   border: dashed 2px #0F0;
   font-size: 2rem;
-  padding: 1.2rem; }
+  padding: 1.2rem;
+  text-decoration: none; }
   button:hover, .button:hover {
-    border: solid 2px #0F0; }
+    border: solid 2px #0F0;
+    background-color: #0F0;
+    color: #000; }
 
 textarea {
   width: 100%;

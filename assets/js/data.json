@@ -1,81 +1,101 @@
 {
 
+    "bonna-pre" : [
+        "Super Heady",
+        "Greasy",
+        "Heady",
+        "Gnarly",
+        "Melly",
+        "Chill",
+        "Lit",
+        "Lit AF",
+        "Skank",
+        "Smooth",
+        "Easy",
+        "Rough"
+    ],
+
     "geographic" : [
-        "tennessee",
-        "maine",
+        "Tennessee",
+        "Kentucky",
+        "Tennesucky",
+        "Maine",
+        "Maniac",
+        "Massachusetts",
+        "Massachussettessetts",
+        "Masshole",
         "abalama",
-        "montana",
-        "quebecois",
-        "iranian",
-        "iraqui",
-        "albanian",
-        "russian",
-        "alaskan"
+        "Montana",
+        "Quebecois",
+        "Iranian",
+        "Iraqui",
+        "Albanian",
+        "Russian",
+        "Alaskan",
+        "Paradise",
+        "Mom's Ex-Boyfriend's Trailer"
     ],
 
     "object" : [
-        "lawnmower",
-        "wheelbarrow",
-        "pot",
-        "skunk",
-        "kettle",
-        "spatula",
-        "chainsaw",
-        "field",
-        "farm truck",
-        "machete"
-
+        "Lawnmower",
+        "Wheelbarrow",
+        "Pot",
+        "Skunk",
+        "Kettle",
+        "Spatula",
+        "Chainsaw",
+        "Field",
+        "Farm truck",
+        "Machete",
+        "Trunk Monkey"
     ],
 
     "pop" : [
-        "rick",
-        "morty",
-        "skywalker",
-        "ruh-roh-raggy",
-        "anonymous"
+        "Rick",
+        "Morty",
+        "Morty's",
+        "Skywalker",
+        "Vader",
+        "Scooby",
+        "Ruh-roh-raggy",
+        "Anonymous"
  
     ],
 
     "weedjective" : [
-        "kush",
-        "dank",
-        "diggety-dank",
-        "skunk",
-        "lit",
-        "lit AF",
-        "skank",
-        "smooth",
-        "easy",
-        "chronic",
-        "dank",
-        "endo",
-        "herb"
+        "Kush",
+        "Dank",
+        "Green",
+        "Diggety-Dank",
+        "Skunk",
+        "Chronic",
+        "Dank",
+        "Endo",
+        "Herb"
+        
 
     ],
 
-    "bonaroo" : [
-        "trunk-monkey",
-        "super heady",
-        "heady",
-        "gnarly",
-        "ripped",
-        "whacked"
+    "bonna-post" : [
+        "Trunk-Monkey",
+        "Ripper",
+        "Whacker"
     ],
 
     "coloquialism" : [
-        "weed",
-        "green",
-        "dope",
-        "pot",
-        "cannabis",
-        "mary jane",
-        "sweet mary",
-        "greenery",
-        "trees",
-        "shrubbery",
-        "juniper",
-        "devil's weed",
-        "mersh"
+        "Weed",
+        "Green",
+        "Dope",
+        "Pot",
+        "Cannabis",
+        "Mary jane",
+        "Sweet mary",
+        "Greenery",
+        "Trees",
+        "Shrubbery",
+        "Juniper",
+        "Devil's Weed",
+        "Mersh"
         
     ],
 
@@ -92,6 +112,8 @@
         "Doofy Dank",
         "Harry Chronic, Jr.",
         "Dank Sinatra",
-        "Devil's Brown Weed"
+        "Devil's Brown Weed",
+        "Bubbaliciousness",
+        
     ]
 }

@@ -17,11 +17,12 @@ import NameGenerator from "./parts/NameGenerator.js";
  ***/
 export default class WNGN {
 
-    static _requestURL = "http://localhost:8888/assets/js/data.json";     // from whence to requesteth the DATA
+    //static _requestURL = "http://localhost:8888/assets/js/data.json";     // from whence to requesteth the DATA
+    static _requestURL = "https://wheedables.github.io/weednamegenerator/assets/js/data.json" 
 
     static _theDATA = {}
 
-    static _randomlyGeneratedWeedName = "the button hath been clicked"; // a place to put the randomly generated weed name
+    static _randomlyGeneratedWeedName = ""; // a place to put the randomly generated weed name
 
     constructor() {
 
@@ -38,7 +39,7 @@ export default class WNGN {
     // makes the generator go. 
     static go() {
 
-        console.log(WNGN._theDATA);
+        //console.log(WNGN._theDATA);
 
         WNGN._randomlyGeneratedWeedName = NameGenerator.generateName(WNGN._theDATA);
 

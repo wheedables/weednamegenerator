@@ -15,7 +15,6 @@ let display = document.querySelector("#display");               // where teh nam
 
 WNGN.on();    // fire up the generator, it takes a mo to get the data yo
 
-
 submitButton.addEventListener("click", handleSubmitButtonClick);
 
 function handleSubmitButtonClick(e) {
@@ -24,7 +23,6 @@ function handleSubmitButtonClick(e) {
 
     // WNGN does it's thing...
     let randomlyGeneratedWeedName = WNGN.go();
-
 
     // assign it to the display
     display.innerHTML = randomlyGeneratedWeedName;

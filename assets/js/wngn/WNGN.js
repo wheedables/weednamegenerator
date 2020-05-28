@@ -45,7 +45,6 @@ export default class WNGN {
 
         return WNGN._randomlyGeneratedWeedName;
 
-
     }
 
 }

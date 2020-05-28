@@ -23,9 +23,14 @@ export default class NameGenerator {
 
         NameGenerator._randomlyGeneratedName = "";
 
+        // once every 27~ish times the generator will return an empty string, which will throw an error.
+        if (RandomInt.generate(27) == 16) {
+            NameGenerator._randomlyGeneratedName = "";
+            return NameGenerator._randomlyGeneratedName;    // bail on this function, yo
+        }
         // once every 7 times or so, the generator will source from a collection of existing weed names
         // contributed by anonymous, classified individuals
-        if (RandomInt.generate(7) == 6) {
+        else if (RandomInt.generate(7) == 6) {
 
             NameGenerator._randomlyGeneratedName = NameGenerator.generatePreExistingName(nameData);
 

@@ -162,7 +162,10 @@
         "Devil's Weed",
         "Mersh",
         "Cassette Tapes",
-        "Sticky-Icky"
+        "Sticky-Icky",
+        "Fur Burger",
+        "Booty",
+        "Bootaaaay"
         
     ],
 
@@ -188,5 +191,29 @@
         "Putin's Pot",
         "Skywalker"
         
+    ],
+
+    "error": [
+        "[ERROR]",
+        "404 NAME NOT FOUND",
+        "*** WARNING DO NOT TURN OF YOUR COMPUTER YOU HAVE A VIRUS OH NOES ***",
+        "error",
+        "?Syntax Error at 10",
+        "@#!!&%$!*",
+        "3RR0R",
+        "Somethign is Worng with teh G3n3RaeToR",
+        "Outlook Not Good",
+        "Please Try Again",
+        "Thank You, Come Again",
+        "That's what she said",
+        "Time to GTFO, Jimmy",
+        "¯\\_(ツ)_/¯",
+        "System32 Not Found",
+        "Ctl+Alt+Delete",
+        ";)",
+        "0.o",
+        ":`(",
+        "Shouldn't you be doing something more productive with your existance?"
+
     ]
 }

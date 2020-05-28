@@ -11,7 +11,8 @@ import WNGN from "../WNGN.js";
 
 export default class DataFetcher {
 
-    static _requestURL = "http://localhost:8888/assets/js/data.json";     // from whence to requesteth the DATA
+    //static _requestURL = "http://localhost:8888/assets/js/data.json";     // from whence to requesteth the DATA
+    static _requestURL = "https://wheedables.github.io/weednamegenerator/assets/js/data.json"
 
     constructor() {
 

@@ -1,6 +1,7 @@
 {
 
     "bonna-pre" : [
+        "",
         "Super Heady",
         "Greasy",
         "Heady",
@@ -15,11 +16,16 @@
         "Smooth",
         "Easy",
         "Rough",
-        "OverClocked"
+        "OverClocked",
+        "Ghetto",
+        ""
     ],
 
     "geographic" : [
+        "",
         "Tennessee",
+        "Gatlinburg",
+        "Huntsville",
         "Kentucky",
         "Tennesucky",
         "Maine",
@@ -62,11 +68,12 @@
         "Belarussian",
         "Ukraine",
         "Ukrainian",
-        "Atlantic Provinces"
-
+        "Atlantic Provinces",
+        ""
     ],
 
     "object" : [
+        "",
         "Lawnmower",
         "Wheelbarrow",
         "Pot",
@@ -88,10 +95,12 @@
         "Volcano",
         "Dork",
         "Bubba",
-        "Precious"
+        "Precious",
+        ""
     ],
 
     "pop" : [
+        "",
         "Rick",
         "Morty",
         "Morty's",
@@ -100,7 +109,6 @@
         "Scooby",
         "Ruh-roh-raggy",
         "Anonymous",
-        "Billie Elish",
         "Neo",
         "SJW",
         "Alt-Ain't-Right",
@@ -114,11 +122,12 @@
         "D&D",
         "Pee Wee Herman",
         "Golem's",
-        "No Frodo"
- 
+        "No Frodo",
+        ""
     ],
 
     "weedjective" : [
+        "",
         "Kush",
         "Dank",
         "Green",
@@ -127,11 +136,12 @@
         "Chronic",
         "Dank",
         "Endo",
-        "Herb"
-
+        "Herb",
+        ""
     ],
 
     "bonna-post" : [
+        "",
         "Trunk-Monkey",
         "Ripper",
         "Whacker",
@@ -144,10 +154,13 @@
         "Smelly",
         "Stanky",
         "Sticky",
-        "Stick-Icky"
+        "Stick-Icky",
+        "Ghetto",
+        ""
     ],
 
     "coloquialism" : [
+        "",
         "Weed",
         "Green",
         "Dope",
@@ -165,8 +178,8 @@
         "Sticky-Icky",
         "Fur Burger",
         "Booty",
-        "Bootaaaay"
-        
+        "Bootaaaay",
+        ""
     ],
 
     "pre-existing" : [
@@ -189,8 +202,8 @@
         "Good ol' Maine Field Grown",
         "Alaskan Haymaker",
         "Putin's Pot",
-        "Skywalker"
-        
+        "Skywalker",
+        ""
     ],
 
     "error": [
@@ -212,8 +225,17 @@
         "Ctl+Alt+Delete",
         ";)",
         "0.o",
+        "uwu",
+        "0w0",
+        ">:(",
         ":`(",
-        "Shouldn't you be doing something more productive with your existance?"
+        "Shouldn't you be doing something more productive with your existance?",
+        "Have a GoodUn, Bud",
+        "ExiStAnCe Is PaIn",
+        "Thanks for playing",
+        "Whelp, you suck",
+        "Your mom thinks you're special",
+        "Thank-you for a-playing my a-game"
 
     ]
 }

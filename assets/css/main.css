@@ -74,7 +74,8 @@ table {
  * 
  ***/
 button, .button {
-  cursor: pointer; }
+  cursor: pointer;
+  display: block; }
 
 /****************************************************************************************
  * filename: /layout/_grid.scss 
